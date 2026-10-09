@@ -1,0 +1,10 @@
+openai
+torch
+transformers
+peft
+pillow
+regex
+nltk
+bert-score
+tqdm
+numpy

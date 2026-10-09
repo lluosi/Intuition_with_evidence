@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+.idea/
+.env
+.env.*
+!.env.example
+/datasets/
+/checkpoints/
+/results/
+/runs/
+*.tmp
